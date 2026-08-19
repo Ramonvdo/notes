@@ -1,2 +1,3 @@
 # notes
-Personal notes
+
+Personal notes.
