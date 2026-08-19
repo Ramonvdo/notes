@@ -1,6 +1,6 @@
 # notes
 
-Personal notes.
+A place for occasional writing of thoughts.
 
 ## About
 
